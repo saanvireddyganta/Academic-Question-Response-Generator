@@ -1,0 +1,1 @@
+Run `python scripts/run_test_suite.py` to create actual model outputs and latency measurements.\n

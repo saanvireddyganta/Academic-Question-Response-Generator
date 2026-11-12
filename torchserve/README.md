@@ -1,0 +1,1 @@
+Download the model, install `torchserve/requirements-torchserve.txt`, run `torchserve/build_mar.ps1`, then build/run the Dockerfile from the project root. TorchServe is in limited maintenance; verify compatibility of the pinned versions and keep management port 8081 private.\n

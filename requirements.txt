@@ -1,0 +1,8 @@
+torch==2.2.2
+transformers==4.40.2
+tokenizers==0.19.1
+streamlit==1.35.0
+requests
+pandas
+boto3
+sagemaker==2.224.4

@@ -1,0 +1,1 @@
+torchserve==0.11.0\ntorch-model-archiver==0.11.0\ntransformers==4.40.2\ntokenizers==0.19.1\n
